@@ -1,5 +1,5 @@
 # Telecommunications-Data-Analyst
-Con este proyecto se busca optimizar y mejorar los procesos de una empresa de telecomunicaciones, a partir de los datos, analizando las tecnologías ofrecidas, velocidad de carga y descarga del internet fijo, comparación entre los diferentes servicios ofrecidos, clientes activos y alcance geográfico respecto a las tecnologías. Con el fin de implementarlo en campañas de marketing y mejorar la segmentación de las mismas 
+Con este proyecto se busca optimizar y mejorar los procesos de una empresa de telecomunicaciones, a partir de los datos, analizando las tecnologías ofrecidas, velocidad de carga y descarga del internet fijo, comparación entre los diferentes servicios ofrecidos, clientes activos y alcance geográfico respecto a las tecnologías. Con el fin de conocer el estado general de la empresa, e implementar el conocimiento en campañas de marketing y mejorar la segmentación de las mismas 
 
 ## Dataframes Utilizados:
 Serie_trimestral_accesos_Internet_fijo_por_tecnología -
