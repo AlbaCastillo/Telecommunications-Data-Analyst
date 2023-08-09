@@ -21,8 +21,11 @@ Que es lo mas importante para un cliente de una empresa de telecomunicaciones, l
 
 En base a la información proporcionada podemos medir el desempeño de la empresa con los siguientes KPI's
 
-**1 . Velocidad de carga y descarga**: La velocidad de carga y descarga de la conexión a internet es una medida importante para determinar la calidad del servicio que se está ofreciendo.
-
-**2 . Clientes activos**: puede ser un indicador importante del alcance de la empresa, ya que cuantos más clientes tenga, mayor será su presencia en el mercado y mayor será su capacidad para generar ingresos y ganancias.
-
+**1 . Velocidad de carga y descarga**: La velocidad de carga y descarga de la conexión a internet es una medida importante para determinar la calidad del servicio que se está ofreciendo. Se propone:
+  "Aumentar la velocidad de carga y descarga un 10% en los proximos 6 meses"
+  
+**2 . Clientes activos**: puede ser un indicador importante del alcance de la empresa, ya que cuantos más clientes tenga, mayor será su presencia en el mercado y mayor será su capacidad para generar ingresos y ganancias. Se propone:
+  "Tomar en cuenta la retencion de clientes y generar un aumento de clientes activos en un 15% en los proximos 6 meses"
+    
 **3 . Alcance geográfico**: medido en términos de la cantidad de países o regiones en los que la empresa tiene presencia o realiza operaciones. Este KPI puede ser útil para medir el nivel de expansión internacional de la empresa y su capacidad para llegar a nuevos mercados
+  "Expandir los servicios mas usados a las regiones del pais con mas demanda"
